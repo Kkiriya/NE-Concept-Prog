@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 11 : Opérateurs de comparaison
 # Exercices sur les Opérateurs de Comparaison et d'Identité
 # Prédit le résultat de ces comparaisons :

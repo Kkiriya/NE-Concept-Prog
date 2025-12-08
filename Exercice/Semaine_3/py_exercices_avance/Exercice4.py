@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 4 : Conversions imbriquées
 # Exercices sur la Conversion Simple et Cast
 # Trouve le résultat final de ces conversions :

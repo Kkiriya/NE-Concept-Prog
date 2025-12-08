@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 1 : Décomposition d'expressions complexes
 # Exercices sur les Opérateurs, Précédence et Associativité
 # Écris les étapes intermédiaires de calcul pour ces expressions :

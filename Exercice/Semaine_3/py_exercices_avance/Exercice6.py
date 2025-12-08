@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 6 : Gestion des arrondis et troncatures
 # Écris un programme qui montre les différences entre différentes 
 # méthodes de conversion :

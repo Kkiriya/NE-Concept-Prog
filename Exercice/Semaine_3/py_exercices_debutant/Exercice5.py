@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 5 : Conversions avec input
 # Écris un programme qui demande deux nombres à l'utilisateur
 #  et effectue différentes conversions :

@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 7 : Identification des types
 # Exercices sur les Types Mutables et Immuables
 # Pour chaque variable, indique si son type est mutable ou immuable :

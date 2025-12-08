@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 3 : Correction d'expressions
 # Trouve et corrige les erreurs dans ces expressions :
 

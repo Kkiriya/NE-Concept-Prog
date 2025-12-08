@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 6 : Gestion des erreurs de conversion
 # Écris un programme qui gère les erreurs de conversion :
 

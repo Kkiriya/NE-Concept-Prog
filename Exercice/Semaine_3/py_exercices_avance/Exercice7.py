@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 7 : Effets de bord complexes
 # Exercices sur les Types Mutables et Immuables
 # Prédit le résultat de ce code :

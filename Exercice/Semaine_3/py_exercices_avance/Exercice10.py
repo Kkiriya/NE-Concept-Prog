@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 10 : Tables de vérité complexes
 # Exercices sur les Opérateurs de Comparaison et d'Identité
 # Complète la table de vérité pour ces expressions :

@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 9 : Performance des types
 # Compare l'efficacité mémoire des différents types :
 import sys

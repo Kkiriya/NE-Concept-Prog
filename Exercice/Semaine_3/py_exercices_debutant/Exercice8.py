@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 8 : Manipulation des types mutables
 # Observe le comportement des types mutables :
 

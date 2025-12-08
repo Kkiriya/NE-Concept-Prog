@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercices sur la Conversion Simple et Cast
 # Exercice 4 : Conversions de base
 # Complète le code suivant avec les conversions appropriées :

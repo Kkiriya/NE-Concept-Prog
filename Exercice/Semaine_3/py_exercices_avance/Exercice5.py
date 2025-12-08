@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 5 : Programme de conversion universelle
 # Crée un programme qui détecte automatiquement le type d'entrée et le convertit :
 

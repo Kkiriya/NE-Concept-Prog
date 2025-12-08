@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 11 : Comparaisons chainées
 # Évalue ces comparaisons chainées :
 

@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 10 : Copie de types mutables
 # Écris un programme qui montre la différence 
 # entre copie superficielle et référence :

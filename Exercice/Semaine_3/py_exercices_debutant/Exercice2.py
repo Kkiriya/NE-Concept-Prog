@@ -1,5 +1,5 @@
 # Date: 2025-11-12
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Exercice 2 : Associativité des opérateurs
 
 print("Expression 1: ")
