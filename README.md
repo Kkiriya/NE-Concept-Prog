@@ -27,8 +27,12 @@ Contient toutes mes notes et exercices du cours de concepts de programmation de 
 
 ### Semaine 6: 
 - **Jeux Pendu**: jeux du pendu fonctionnel
-- **Exercices Avancés sur les Fonctions - Défis et Limites** - non complet
+- **Exercices Avancés sur les Fonctions - Défis et Limites**
 - **Exercices sur les Fonctions en Python**
+
+### Semaine 7:
+- **Exercices Collaboratifs Git/GitHub pour Débutants:**
+   - Travaux d'equipe ne sera pas present ici.
 
 ## Note de cours:
 - **and-or-not.ipynb:** mes notes sur les `and`, `or` et `not`
