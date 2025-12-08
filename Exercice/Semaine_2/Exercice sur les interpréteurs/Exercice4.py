@@ -1,5 +1,5 @@
 # Date: 2025-11-05
-# Auteurs: Émile Valade
+# Auteurs: Émile V
 # But: ce programme sert a présenter une personne
 
 nom = "Émile" # definit la variable nom

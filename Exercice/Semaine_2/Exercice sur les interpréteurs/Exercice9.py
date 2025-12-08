@@ -1,5 +1,5 @@
 # Date: 2025-11-05
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: remplir les trous
 """
 CALCULATRICE SIMPLE

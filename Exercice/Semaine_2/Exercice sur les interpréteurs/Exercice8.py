@@ -1,5 +1,5 @@
 # Date: 2025-11-05
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Tester le resulat des operation 
 
 print(5+ 3.0) # devrait imprimer: 8.0

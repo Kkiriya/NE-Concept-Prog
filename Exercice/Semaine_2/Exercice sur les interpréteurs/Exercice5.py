@@ -1,5 +1,5 @@
 # Date: 2025-11-05
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: demande le nom de l'utilisateur, son age, et affiche un message personnaliser
 
 nom = input("Quel est votre nom?") # demande le nom 

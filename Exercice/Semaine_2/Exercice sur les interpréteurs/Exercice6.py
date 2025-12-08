@@ -1,5 +1,5 @@
 # Date: 2025-11-05
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: indiquer le type de chaque valeur
 un_int = 42
 un_str = "Python"

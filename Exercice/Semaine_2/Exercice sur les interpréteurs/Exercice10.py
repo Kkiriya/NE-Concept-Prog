@@ -1,5 +1,5 @@
 # Date: 2025-11-05
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: affiche un profil et gere le bon type de donnees
 
 #Demande les information neccesssaire

@@ -1,5 +1,5 @@
 # Date: 2025-11-05
-# Auteur: Émile Valade
+# Auteur: Émile V
 # But: Conversion de type
 
 # conversion en entier
@@ -16,4 +16,3 @@ print(f"age_texte: {age_texte}, est de type: {type(age_texte)}")
 prix = "15.99"
 prix_decimal = float(prix)
 print(f"prix_decimal: {prix_decimal}, est de type: {type(prix_decimal)}")
-
