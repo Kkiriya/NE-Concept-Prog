@@ -1,4 +1,4 @@
-class  User(): #PascalCase
+class  User: #PascalCase
     #variables globale possible
     ban = False
 
