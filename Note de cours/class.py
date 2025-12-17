@@ -1,4 +1,4 @@
-class  User: #PascalCase
+class  User(): #PascalCase
     #variables globale possible
     ban = False
 
@@ -16,7 +16,7 @@ class  User: #PascalCase
     def _say_hi(self):
         print("Oh hi!")
 
-    def bonjour(self, short:bool=False) -> Bool:
+    def bonjour(self, short:bool=False) -> bool:
         if short:
             self._say_hi()
         else:
